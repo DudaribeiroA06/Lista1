@@ -1,0 +1,5 @@
+Raio= float (input("Digite o raio da esfera:"))
+vol=(4/3)* 3.14*(Raio**3)
+print("O volume da esfera,é:" + str(vol))
+Área=(4*3.14*(Raio**2))
+print("A área da esfera,é:" + str(Área))
